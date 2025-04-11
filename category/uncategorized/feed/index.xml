@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Uncategorized &#8211; Dakanook</title>
-	<atom:link href="https://farysdemos.github.io/kano/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
-	<link>https://farysdemos.github.io/kano/</link>
+	<atom:link href="https://dcmaticshare.github.io/kano/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>https://dcmaticshare.github.io/kano/</link>
 	<description>By Kaja Company</description>
 	<lastBuildDate>Wed, 09 Apr 2025 19:45:13 +0000</lastBuildDate>
 	<language>nl-BE</language>
@@ -21,28 +21,28 @@
 	<generator>https://wordpress.org/?v=6.7.2</generator>
 
 <image>
-	<url>https://farysdemos.github.io/kano/wp-content/uploads/2025/04/2025-Logo-Dakanook-1-150x150.webp</url>
+	<url>https://dcmaticshare.github.io/kano/wp-content/uploads/2025/04/2025-Logo-Dakanook-1-150x150.webp</url>
 	<title>Uncategorized &#8211; Dakanook</title>
-	<link>https://farysdemos.github.io/kano/</link>
+	<link>https://dcmaticshare.github.io/kano/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Hello world!</title>
-		<link>https://farysdemos.github.io/kano/hello-world/</link>
-					<comments>https://farysdemos.github.io/kano/hello-world/#comments</comments>
+		<link>https://dcmaticshare.github.io/kano/hello-world/</link>
+					<comments>https://dcmaticshare.github.io/kano/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[dieteradmin]]></dc:creator>
 		<pubDate>Wed, 09 Apr 2025 19:45:13 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://farysdemos.github.io/kano/?p=1</guid>
+		<guid isPermaLink="false">https://dcmaticshare.github.io/kano/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://farysdemos.github.io/kano/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://dcmaticshare.github.io/kano/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
